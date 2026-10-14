@@ -1,5 +1,5 @@
 
-# 📊 Crime Data Analysis Dashboard
+# Crime Data Analysis Dashboard 📊 
 
 ## 📌 Aim
 
