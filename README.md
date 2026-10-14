@@ -1,5 +1,5 @@
 
-# 📊 Crime Data Analysis Dashboard | Power BI
+# 📊 Crime Data Analysis Dashboard
 
 ## 📌 Aim
 
