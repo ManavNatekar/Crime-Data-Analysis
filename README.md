@@ -1,5 +1,5 @@
 
-# Crime Data Analysis 📊 
+# 📊 Crime Data Analysis 
 
 ## 📌 Aim
 
