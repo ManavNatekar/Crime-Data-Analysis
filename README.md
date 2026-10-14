@@ -33,8 +33,6 @@ The dashboard transforms crime data into meaningful visual insights, helping use
 | Crime Domains | 4 | Crime domain categories |
 | Weapon Categories | 7 | Weapon categories represented |
 
-*Note: KPI values are based on the dashboard screenshot and may change when filters are applied.*
-
 ## 📊 Dashboard Visualizations
 
 ### 1. Crime by Gender
@@ -92,8 +90,6 @@ Based on the displayed dashboard:
 - The dashboard shows a higher recorded count for female victims than male victims.
 - The geographical map enables users to explore the distribution of recorded crime locations.
 - Occurrence-date and reported-date filters allow users to examine records across different time periods.
-
-*These findings describe the displayed dataset and should not be interpreted as population-adjusted crime rates or proof of causation.*
 
 ## 📷 Dashboard Preview
 
