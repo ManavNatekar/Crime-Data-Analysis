@@ -97,9 +97,7 @@ Based on the displayed dashboard:
 
 ## 📷 Dashboard Preview
 
-![Crime Data Analysis Dashboard](images/crime-dashboard.png)
-
-> Replace `images/crime-dashboard.png` with the actual path to your dashboard screenshot in the repository.
+![Crime Data Analysis Dashboard](Dashboard.png)
 
 ## 🧠 Skills Demonstrated
 
